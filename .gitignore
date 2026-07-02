@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# build
+dist
+dist-ssr
+*.tsbuildinfo
+.push-*.json
+
+# logs
+*.log
+
+# env
+.env
+.env.*
+
+# editor
+.DS_Store
