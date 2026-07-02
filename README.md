@@ -1,6 +1,6 @@
-# CoE Monitor — Executive Health Dashboard Template
+# UX Graph Template — Executive Health Dashboard Template
 
-A React + TypeScript observability dashboard template inspired by the **CoE Monitor** Executive Health UX. Built with Vite, Tailwind CSS v4, custom SVG gauges, and Recharts.
+A React + TypeScript observability dashboard template inspired by the **UX Graph Template** Executive Health UX. Built with Vite, Tailwind CSS v4, custom SVG gauges, and Recharts.
 
 ## Quick Start
 

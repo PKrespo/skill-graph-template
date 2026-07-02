@@ -58,7 +58,7 @@ export function Sidebar({
             </div>
             {!collapsed && (
               <div>
-                <div className="text-sm font-bold text-text">CoE Monitor</div>
+                <div className="text-sm font-bold text-text">UX Graph Template</div>
                 <div className="text-[10px] uppercase tracking-wider text-text-faint">
                   Internal • Dev
                 </div>
